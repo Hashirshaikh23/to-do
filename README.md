@@ -1,4 +1,4 @@
-📝 To-Do Application
+**📝 To-Do Application**
 A sleek and efficient To-Do application built with Next.js, TypeScript, and Tailwind CSS. Manage your tasks like a pro! 🚀
 
 ✨ Features
