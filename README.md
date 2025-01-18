@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📝 To-Do Application
+A sleek and efficient To-Do application built with Next.js, TypeScript, and Tailwind CSS. Manage your tasks like a pro! 🚀
 
-## Getting Started
+✨ Features
+✅ Add Tasks: Quickly add new tasks with a title and description.
+📋 View Tasks: See all your tasks neatly displayed in a list.
+🗑️ Delete Tasks: Remove tasks when they're completed or no longer needed.
 
-First, run the development server:
+🛠️ Technologies Used
+- ⚡ Next.js: Fast, server-side rendered React framework.
+- 🔒 TypeScript: Statically typed superset of JavaScript for better reliability.
+- 🎨 Tailwind CSS: Utility-first CSS framework for rapid UI development.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🚀 Getting Started
+Follow these steps to run the application locally:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Clone the Repository:
+- git clone https://github.com/Hashirshaikh23/to-do.git
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Navigate to the Project Directory:
+- cd to-do
 
-## Learn More
+Install Dependencies:
+- npm install
 
-To learn more about Next.js, take a look at the following resources:
+Start the Development Server:
+- npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open Your Browser: Visit http://localhost:3000 🌐
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📁 Project Structure
+🗂️ /app: Main application components and pages.
+⚙️ /components: Reusable UI components.
+📚 /lib: Utility functions and libraries.
+🖼️ /public: Static assets like images and fonts.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🤝 Contributing
+Contributions are always welcome! 🎉
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Fork this repository.
+Create a feature branch:
+- git checkout -b feature/YourFeatureName
+
+Commit your changes:
+- git commit -m "Add your message here"
+Push to the branch:
+- git push origin feature/YourFeatureName  
+
+Open a pull request.
